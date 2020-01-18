@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\linearsearch\linearsearch\bin\Debug\linearsearch.exe.config
+C:\Users\jacob\source\repos\linearsearch\linearsearch\bin\Debug\linearsearch.exe
+C:\Users\jacob\source\repos\linearsearch\linearsearch\bin\Debug\linearsearch.pdb
+C:\Users\jacob\source\repos\linearsearch\linearsearch\obj\Debug\linearsearch.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\linearsearch\linearsearch\obj\Debug\linearsearch.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\linearsearch\linearsearch\obj\Debug\linearsearch.exe
+C:\Users\jacob\source\repos\linearsearch\linearsearch\obj\Debug\linearsearch.pdb
